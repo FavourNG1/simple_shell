@@ -1,1 +1,1 @@
-Simple Shell group projet 0x16.C David Chetty and Favour Nnenna
+ALX task 0x16.C simple_shell group project with David Chetty and Favour Nnenna
